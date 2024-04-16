@@ -53,8 +53,9 @@ Die Vorbereitung der Prüfungsleistung sollte weitere 30 h umfassen.
 * Praxis Start (EWL 3)
 
 ## Studien- und Prüfungsleistung
-Die Studienleistung wird während der Blocktage erbracht.
-Die Prüfungsleistung wird in Form eines schriftlichen Portfolios semesterbegleitend durch 9 Abgaben erbracht. Die Verschriftlichung einer Sachanalyse (Abgabe 8) macht dabei 50% der Note der PL aus. Die anderen 50% verteilen sich gleichermaßen auf die anderen 8 Abgaben. Genauere Infos unter dem Reiter "Hands-on & Leistungen". 
+Die Studienleistung besteht aus der Abgabe von mindestens 7 wöchentlichen Aufgaben, die bestanden werden müssen. Sie bieten zudem die Grundlage des Seminars jede Woche. 
+Die Prüfungsleistung stellt eine Sachanalyse dar, die wir während der semesterbegleitenden Lehre individuell in einem iterativen Prozess verfassen werden.  
+Die Studienleistung während des Blocktermins besteht in der Anwesenheitspflicht und der Anfertigung einer Unterrichtsskizze. Der Blocktermin baut stark auf die semesterbegleitende Lehre auf, weshalb wir auch während der semesterbegleitenden Lehre nur zu regelmäßiger Teilnahme ermutigen können. 
 
  
 
