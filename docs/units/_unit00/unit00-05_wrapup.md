@@ -4,7 +4,7 @@ header:
   image: "/assets/images/climate-splash.jpg"
   caption: 'Photo: **Rieke Ammoneit**'
 ---
-# Sitzung 11 & 12
+# Sitzung 12 & 13
 Als Lehrkräfte sollten wir stets sensibel mit Inhalten umgehen und kritisch hinterfragen. Zur Vorerbeitung dazu beschäftigen wir uns zunächst mit dem Thema Diversität und Stereotypen. 
 
 # Diversität & Stereotype
