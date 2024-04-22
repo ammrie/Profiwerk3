@@ -20,9 +20,9 @@ Sie sollen das Thema:
 mit den Basiskonzepten Sturktur, Funktion, Prozess erschließen und anhand dieser "Strukturierungshilfe" eine Sachanalyse skizieren.
 
 Der Kontext wird in diesem Falle vorgegeben: Es geht um das Eintreten eines Erdbebens. Sie sollen nun ausgehend von diesem Kontext für ein weniger und ein höher entwickeltes Land Struktur, Funktion und Prozess abstrahieren. Dazu:
-* Wählen Sie eins der Unterthemen in der Klammer (z.B. Besiedlungsstruktur)
+* Wählen Sie eins der Unterthemen in der Klammer (z.B. Besiedlungsstruktur).
 Erfassen Sie ausgehend dieses Kontextes exemplarisch:
-* Wo kommt das jeweilige Element, wie in den beiden Ländern vor? (Sturktur) 
+* Wo kommen die jeweiligen Elemente, wie in den beiden Ländern vor? (Sturktur) 
 * Was ist die Funktion dieser Verteilung? (Funktion)
 * und was passiert im Falle eines Erdbebens? (Prozess) Es wird also vorgegeben, dass bzw. welche Veränderung (Erbeben) eintritt.
  
