@@ -46,11 +46,12 @@ Es ist untergliedert in die Bereiche:
 
 
 Bis zum nächsten mal:
-Sie wurden in der Sitzung einem der vier Raumkonzepte zugeteilt. Sie sollen nun ein Brainstorming anstellen, wie das Thema *naturgeographische Grundlage* unter Ihrer Raumperspektive  erschlossen wreden kann. 
+Sie wurden in der Sitzung zu zwei der vier Raumkonzepte zugeteilt. Sie sollen nun ein Brainstorming anstellen, wie das Thema *naturgeographische Grundlage* unter Ihrer Raumperspektive  erschlossen wreden kann. Folgende Leitfragen können Ihnen dazu jeweils, also pro Raumkonzept getennt betrachetet und beantwortet, helfen:
 * Was ist spannend und lohnenswert an der Sache? 
 * Recherchieren Sie Literatur und spezifizieren Sie auf dieser Grundlage eine Ihrer Ideen. 
-* Stellen Sie danach ein Literaturverzeichnis zusammen. Achten Sie darauf, dass sie mindestens vier wissenschaftliche Quellen verwenden. 
-* Skizzieren Sie Ihre Raumanalyse in Stichworten oder einem Schaubild. 
+* Stellen Sie danach ein Literaturverzeichnis zusammen. Achten Sie darauf, dass sie mindestens vier wissenschaftliche Quellen verwenden.
+* Entwickeln Sie ausgehend ihrer Raumkonzepte (jeweils nur aus einer Perspektive!) eine Leitfrage, welche den fachlichen Gegenstand möglichst präzise ergreift und damit eine lohnenswerte Fragestellung zugrunde legt. 
+* Skizzieren Sie Ihre Raumanalyse in Stichworten oder einem Schaubild zu jeweils beiden Raumkonzepten. 
 Laden Sie Ihre Arbeit bis spätestens Sonntag 23:55 in dem dafür vorgesehenen Ilias-Ordner hoch. 
 {: .notice--success}
 
