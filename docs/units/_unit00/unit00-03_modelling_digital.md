@@ -10,7 +10,7 @@ Laut Bildungsstandards soll der Raum im Geographieunterricht als System modellie
 Vorbereitend auf die Sitzung haben Sie die Texte von Ammoneit et al. (2019) und Bette & Fögele (2015) gelesen und exerpiert, was den jeweiligen Autor*innen für das Systemverständnis als bedeutsam erscheint.
 {:.notice--success}
 
-# Sitzung 6 & 8 (Sitzung 7 am 28.5. fällt wegen der Projektwoche aus!)
+# Sitzung 6 & 7
 
 In Kleingruppen (3 Personen) sollen Sie sich nun Ihre Hausaufgaben vorstellen. Wie wird System konzeptionalisiert? Welche Stärken und Schwächen sehen Sie?
 
