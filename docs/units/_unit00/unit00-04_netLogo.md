@@ -5,7 +5,7 @@ header:
   caption: 'Photo: **Rieke Ammoneit**'
 ---
 
-# Sitzung 9 & 10 Verschiftlichung einer Sachanalyse
+# Sitzung 8 & 9 Verschiftlichung einer Sachanalyse
 
 Nun sollen Sie die erste Verschriftlichung einer Sachanalyse anfertigen. Ihnen ist dabei völlig freigestellt, ob Sie die Sachanalyse mit Hilfe eines oder mehrerer Basiskonzepte strukturieren. Beachten Sie, dass bei Sachanalyse genauso wie in Hausarbeiten zitiert wird. Insgesamt sollen Sie für die Sachanalyse mindestens 5 wissenschaftliche Quellen verwendet haben. 
 
@@ -33,7 +33,7 @@ Phase 2: Reflexion von Basiskonzepten und Leitfragen (30 Minuten)
 Phase 3: Einarbeitung des Feedbacks 
 Sie erhalten nun Ihr Feedback und können bei Bedarf Rückfragen stellen. Arbeiten Sie das Feedback in Ihre Sachanalysen ein. 
 
-# Sitzung 11
+# Sitzung 10
 Nun werden wir uns auf Grundlage der fachlichen Erarbeitung des "Systems" mit Auswirkungen auf verschiedenen Maßstabsebenen (Scale) auseinandersetzen. 
 
 # Scale - Maßstabsebenen 
