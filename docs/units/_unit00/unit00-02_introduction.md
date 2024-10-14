@@ -40,7 +40,7 @@ Zum nächsten Mal:
 Erarbeiten Sie sich bitte den Ihnen zugeteilten Text von: [Köck (2014)](https://ilias.uni-marburg.de/goto.php?target=file_3374935_download&client_id=UNIMR), [Werlen (1993)](https://ilias.uni-marburg.de/goto.php?target=file_3945032_download&client_id=UNIMR)) oder [Pohl (1993)](https://ilias.uni-marburg.de/goto.php?target=file_3945030_download&client_id=UNIMR). Wer nicht da war, schreibt mir eine Mail bzgl. Zuteilung. Beantworten Sie für Ihren zugeteilten Autor die folgenden Fragen:
 * Wie definiert der Autor Raum?
 * Was ist die zentrale Argumentation des Artikels?
-Laden Sie Ihre Ausarbeitung bis spätestens Sonntag 23:55 Uhr im dafür vorgesehenen Ordner in Ilias hoch.
+Laden Sie Ihre Ausarbeitung bis spätestens Montag 20 Uhr Uhr im dafür vorgesehenen Ordner in Ilias hoch.
 {: .notice--success}
 
 Der geographische Diskurs über Raum ist hervorragend in diesem umfassenden Beitrag von [Hard 2008 S.263ff.](https://www.degruyter.com/document/doi/10.1515/9783839406830/html) dargestellt. Dieser Text ist allen als zusätzliche Lektüre empfohlen -jetzt oder in den Semesterferien. 
