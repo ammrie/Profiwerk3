@@ -28,6 +28,6 @@ Erfassen Sie ausgehend dieses Kontextes exemplarisch:
  
 Das Vorgehen ist als iterativer und nicht als linerarer Prozess zu verstehen. 
 Fertigen Sie eine fachliche Literaturrecherche an, um eine Sachanalyse ausgehend des Basiskonzeptes Sturktur, Funktion, Prozess zu skizzieren. 
-Laden Sie Ihre Bearbeitung bis spätestens Sonntag 23:55 Uhr im dafür vorgesehenen Ilias-Ordner hoch.
+Laden Sie Ihre Bearbeitung bis spätestens Monatag 20 Uhr Uhr im dafür vorgesehenen Ilias-Ordner hoch.
 {:.notice--success}
 
