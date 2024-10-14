@@ -52,7 +52,7 @@ Sie wurden in der Sitzung zu zwei der vier Raumkonzepte zugeteilt. Sie sollen nu
 * Stellen Sie danach ein Literaturverzeichnis zusammen. Achten Sie darauf, dass sie mindestens vier wissenschaftliche Quellen verwenden.
 * Entwickeln Sie ausgehend ihrer Raumkonzepte (jeweils nur aus einer Perspektive!) eine Leitfrage, welche den fachlichen Gegenstand möglichst präzise ergreift und damit eine lohnenswerte Fragestellung zugrunde legt. 
 * Skizzieren Sie Ihre Raumanalyse in Stichworten oder einem Schaubild zu jeweils beiden Raumkonzepten. 
-Laden Sie Ihre Arbeit bis spätestens Sonntag 23:55 in dem dafür vorgesehenen Ilias-Ordner hoch. 
+Laden Sie Ihre Arbeit bis spätestens Montag 20 Uhr in dem dafür vorgesehenen Ilias-Ordner hoch. 
 {: .notice--success}
 
 Wenn Sie für die Hausaufgabe zunächst weitere Einblicke in die praktische Arbeit mit den Raumkonzepten gewinnen wollen, sind Ihnen diese Texte empfohlen: [Laub (2023)](https://link.springer.com/chapter/10.1007/978-3-662-66634-0_2) mit Fachübergriff Sport, [Fögele und Mehren (2017)](https://ilias.uni-marburg.de/goto.php?target=file_3374930_download&client_id=UNIMR) für Geographielehrkräfte.  
@@ -69,7 +69,7 @@ Anschließend stellen Sie sich die Arbeit in gemischten Gruppen vor. Diskutieren
 Bis zum nächsten mal:
 Lesen Sie bitte den Text von [Ammoneit et al. (2019)](https://austriaca.at/0xc1aa5576%200x003b1ef9.pdf) und [Bette & Fögele(2015)](https://ilias.uni-marburg.de/goto.php?target=file_3374928_download&client_id=UNIMR). 
 Worin unterscheiden sich die Ansätze System zu konzeptionalisieren? Exerpieren Sie was die jeweiligen Autor*innen für das Systemverständnis für bedeutsam halten. 
-Laden Sie Ihre Arbeit bis spätestens Sonntag 23:55 in dem dafür vorgesehenen Ilias-Ordner hoch. 
+Laden Sie Ihre Arbeit bis spätestens Montag 20 Uhr in dem dafür vorgesehenen Ilias-Ordner hoch. 
 {: .notice--success}
 
 
